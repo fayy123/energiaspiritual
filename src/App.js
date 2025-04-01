@@ -5,7 +5,6 @@ import Header from './components/Header.js';
 import Section from './components/Section.js';
 import Footer from './components/Footer.js';
 import Service from './components/Service.js';
-import { Helmet } from 'react-helmet-async';
 
 
 function App() {
